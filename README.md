@@ -1,4 +1,5 @@
 # kottans-frontend
+
 <hr style="background-color: white">
 
 # My geetings, <i>Kottans</i>! 
@@ -150,5 +151,59 @@
 <hr style="background-color: white">
 
 ## Git Collaboration
+
+<p>
+    Курс на 
+    <span style="font-weight: bold; font-style: italic">
+        <a href="https://www.coursera.org/learn/introduction-git-github">Courser-і</a>
+    </span>
+    виявився для мене досить корисним та пізнавальним. Саме тут я дізнався те, що потрібно та навіть отримав посилання
+    на додатковий матеріал для більш поглибленого вивчення системи контролю версій. Сам я б навряд одразу пішов
+    отримувати та вивчати стільки всього про Git. Також доповненням було викладання усього матеріалу англійською мовою,
+    що дещо прокачало мої навички розуміння IT сленгу та деяких визначень.
+</p>
+
+<p>
+    Щодо завдань на 
+    <span style="font-weight: bold; font-style: italic">
+        <a href="https://learngitbranching.js.org/?locale=uk">learngitbranching</a>,
+    </span> 
+    то, особисто для мене, вони виявилися корисними. Я дізнався досить велику кількість Git команд, які будуть 
+    корисними у більшості ситуацій, зрозумів за допомогою візуалізації, як працюють ті чи інші команди. Я рекомендую 
+    цей ресурс для новачків програмістів, які тільки починають свій шлях в IT. Це дасть їм можливість відслідковувати
+    свій код поетапно, зберігати копії коду, щоб у випадку термінової ситуації, можна було повернутися до минулої
+    версії програми, якісно писати та рефакторити код, а також будувати особисте портфоліо для працевлаштування у
+    майбутньому.
+</p>
+
+## Screenshots
+
+### Coursera
+
+<details style="padding-bottom: 15px">
+    <summary>Week 3</summary>
+    <img src="./task_git_collaboration/coursera/week_3.png" style="padding-top: 10px" 
+    alt="Coursera: Week 3." title="Week 3">
+</details>
+
+<details style="padding-bottom: 15px">
+        <summary>Week 4</summary>
+        <img src="./task_git_collaboration/coursera/week_4.png" style="padding-top: 10px" 
+        alt="Coursera: Week 4." title="Week 4">
+</details>
+
+### Learn git branching
+
+<details style="padding-bottom: 15px">
+    <summary>Basics</summary>
+    <img src="./task_git_collaboration/learngitbranching/basics.png" style="padding-top: 10px" 
+    alt="Basics" title="Basics">
+</details>
+
+<details style="padding-bottom: 15px">
+        <summary>Remote repositories</summary>
+        <img src="./task_git_collaboration/learngitbranching/remote_repositories.png" style="padding-top: 10px" 
+        alt="Remote repositories" title="Remote repositories">
+</details>
 
 <hr style="background-color: white">
