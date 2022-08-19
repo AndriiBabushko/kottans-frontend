@@ -7,7 +7,7 @@
 ## Про себе
 
 <p>
-    Я Андрій, 18 років. Нещодавно закінчив 1 курс за спеціальністю "Інженерія програмного забезпечення" за освітньою
+    Я Андрій, 18 років. Нещодавно закінив 1 курс за спеціальністю "Інженерія програмного забезпечення" за освітньою
     програмою "Веб-технології". Риси характеру: цілеспрямований, працьовитий та добрий. 
 </p>
 
@@ -28,19 +28,20 @@
 - [X] [Git для командної співпраці](#git-collaboration)
 
 ## Front-End Basic
-- [ ] Intro to HTML & CSS
-- [ ] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] HTML & CSS Practice
+- [X] [Intro to HTML & CSS](#intro-to-html-and-css)
+- [ ] [Responsive Web Design](#responsive-web-design)
+- [ ] [HTML & CSS Practice](#html-and-css-practice)
+- [ ] [JS basics](#js-basics)
+- [ ] [DOM](#dom)
 
-## Advansed Topics
-- [ ] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object oriented JS - practice
-- [ ] OOP exercise - practice
-- [ ] Offline Web Applications
-- [ ] Memory pair game
-- [ ] Website Performance Optimization
-- [ ] Friends APP
+## Advanced Topics
+- [ ] [Building a Tiny JS World (pre-OOP) - practice](#building-a-tiny-js-world-pre-oop---practice)
+- [ ] [Object-oriented JS - practice](#object-oriented-js---practice)
+- [ ] [OOP exercise - practice](#oop-exercise---practice)
+- [ ] [Offline Web Applications](#offline-web-applications)
+- [ ] [Memory pair game](#memory-pair-game)
+- [ ] [Website Performance Optimization](#website-performance-optimization)
+- [ ] [Friends APP](#friends-app)
 
 <hr style="background-color: white">
 
@@ -88,6 +89,12 @@
         <img src="./task_git_intro/learngitbranching/remote_repositories.png" style="padding-top: 10px" 
         alt="Learn git branching: Remote repositories." title="Remote repositories">
 </details>
+
+### Typing club
+
+<p>
+    Також пройшов 100 рівнів на <a href="https://www.typingclub.com/">typingclub</a>:
+</p>
 
 <hr style="background-color: white">
 
@@ -205,5 +212,115 @@
         <img src="./task_git_collaboration/learngitbranching/remote_repositories.png" style="padding-top: 10px" 
         alt="Remote repositories" title="Remote repositories">
 </details>
+
+<hr style="background-color: white">
+
+## Intro to HTML and CSS
+
+<p>
+    Відверто скажу, що тут я майже зовсім не знайшов чогось нового чи корисного, бо 95% усього матеріалу я вивчав
+    особисто в університеті, інше - це нюанси чи тонкості, які одразу чи не зрозумієш чи не знайдеш. Єдине, що я 
+    дійсно піймав - це додаткову практику та змогу засвоїти матеріал ще краще. 
+</p>
+
+## Screenshots
+
+### Coursera
+
+<details style="padding-bottom: 15px">
+    <summary>Week 1</summary>
+    <img src="./task_html_css_intro/coursera/week_1.png" style="padding-top: 10px" 
+    alt="Coursera: Week 1." title="Week 1">
+</details>
+
+<details style="padding-bottom: 15px">
+        <summary>Week 2</summary>
+        <img src="./task_html_css_intro/coursera/week_2.png" style="padding-top: 10px" 
+        alt="Coursera: Week 2." title="Week 2">
+</details>
+
+### Codecademy
+
+<details style="padding-bottom: 15px">
+    <summary>Html progress and syllabus</summary>
+    <img src="./task_html_css_intro/codecademy/learn_html/progress.png" style="padding-top: 10px" 
+    alt="Html progress" title="Html progress">
+    <img src="./task_html_css_intro/codecademy/learn_html/syllabus.png" style="padding-top: 10px" 
+    alt="Html syllabus" title="Html syllabus">
+</details>
+
+<details style="padding-bottom: 15px">
+    <summary>Css progress and syllabus</summary>
+    <img src="./task_html_css_intro/codecademy/learn_css/progress.png" style="padding-top: 10px" 
+    alt="Css progress" title="Css progress">
+    <img src="./task_html_css_intro/codecademy/learn_css/syllabus.png" style="padding-top: 10px" 
+    alt="Css syllabus" title="Css syllabus">
+</details>
+
+<hr style="background-color: white">
+
+## Responsive Web Design
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## HTML and CSS Practice
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## JS basics
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## DOM
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## Building a Tiny JS World (pre-OOP) - practice
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## Object-oriented JS - practice
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## OOP exercise - practice
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## Offline Web Applications
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## Memory pair game
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## Website Performance Optimization
+
+## Screenshots
+
+<hr style="background-color: white">
+
+## Friends APP
+
+## Screenshots
 
 <hr style="background-color: white">
