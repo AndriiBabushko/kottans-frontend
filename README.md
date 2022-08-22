@@ -29,7 +29,7 @@
 
 ## Front-End Basic
 - [X] [Intro to HTML & CSS](#intro-to-html-and-css)
-- [ ] [Responsive Web Design](#responsive-web-design)
+- [X] [Responsive Web Design](#responsive-web-design)
 - [ ] [HTML & CSS Practice](#html-and-css-practice)
 - [ ] [JS basics](#js-basics)
 - [ ] [DOM](#dom)
@@ -261,7 +261,25 @@
 
 ## Responsive Web Design
 
+<p>
+    Особисто я частіше за все використовую технологію FlexBox, бо саме вона здається для мене простішою для засвоєння
+    ніж Grid Layout. Це завдання дало змогу більше ознайомитись з особливостями кожної технології для адаптивної 
+    верстки, а також закріпити ці знання на практиці шляхом практики на сайтах в стилі ігрової практики. 
+</p>
+
 ## Screenshots
+
+<details style="padding-bottom: 15px">
+        <summary>Flexbox Froggy</summary>
+        <img src="./task_responsive_web_design/flexbox_froggy.png" style="padding-top: 10px" 
+        alt="Flexbox Froggy" title="Flexbox Froggy">
+</details>
+
+<details style="padding-bottom: 15px">
+        <summary>Grid Garden</summary>
+         <img src="./task_responsive_web_design/grid_garden.png" style="padding-top: 10px" 
+        alt="Grid Garden" title="Grid Garden">
+</details>
 
 <hr style="background-color: white">
 
