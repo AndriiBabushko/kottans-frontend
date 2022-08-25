@@ -30,7 +30,7 @@
 ## Front-End Basic
 - [X] [Intro to HTML & CSS](#intro-to-html-and-css)
 - [X] [Responsive Web Design](#responsive-web-design)
-- [ ] [HTML & CSS Practice](#html-and-css-practice)
+- [X] [HTML & CSS Practice](#html-and-css-practice)
 - [ ] [JS basics](#js-basics)
 - [ ] [DOM](#dom)
 
@@ -285,7 +285,21 @@
 
 ## HTML and CSS Practice
 
-## Screenshots
+<p>
+    Що можу сказати.. тяжке позаду, але ще тяжче попереду. Все одно, робота не була пророблена марно. Саме отриманні
+    знання на практиці дають максимальний вплив на технічні навички. Тому, в майбутньому засвоювання нового матеріалу
+    буде даватись все легше і легше, бо мозок буде вимушений адаптуватись і буде працювати продуктивно.
+</p>
+
+<p>
+    Щодо завдання, то на виконання я витратив досить велику кількість часу(десь 6-12 годин). Спочатку майже не було 
+    ніяких ідей, як саме реалізовувати завдання. Але згодом, подумавши, проаналізувавши декілька 
+    прикладів коду та подивившись відео я все ж таки сів за роботу і зумів виконати його. Результат можна подивитись
+    нижче за &darr; посиланнями &darr;
+</p>
+
+[Code](https://github.com/AndriiBabushko/Hooli-style-Popup) | 
+[Demo](https://andriibabushko.github.io/Hooli-style-Popup/)
 
 <hr style="background-color: white">
 
